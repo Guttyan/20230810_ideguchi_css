@@ -50,9 +50,10 @@ body{
 
 .content__img{
     position:absolute;
-    top:110px;
+    top:0;
     right:0;
     width: 50%;
+    transform:translateY(20%);
 }
 
 .content__box{
